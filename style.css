@@ -2,7 +2,7 @@
 	padding: 0px;
 	margin: 0px;
 }
-body {
+#first-section {
 	background-image: url("images/top-banner.png");
 	background-repeat: no-repeat;
 }
@@ -17,7 +17,7 @@ h2 {
 span {
 	color: orange;
 }
-.flexible-container {
+.flexible {
 	display: flex;
 }
 .width-half {
@@ -33,4 +33,9 @@ a {
 	background-color: orangered;
 	padding: 10px 40px;
 	border-radius: 5px;
+}
+#secend-section {
+	background-image: url("images/dream-bg.png");
+	background-repeat: no-repeat;
+	margin-top: 5%;
 }
