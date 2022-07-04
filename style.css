@@ -1,0 +1,36 @@
+* {
+	padding: 0px;
+	margin: 0px;
+}
+body {
+	background-image: url("images/top-banner.png");
+	background-repeat: no-repeat;
+}
+h1 {
+	font-family: "Arima", cursive;
+	font-size: 50px;
+}
+h2 {
+	font-family: "Arima", cursive;
+	font-family: "Josefin Sans", sans-serif;
+}
+span {
+	color: orange;
+}
+.flexible-container {
+	display: flex;
+}
+.width-half {
+	width: 50%;
+	padding-left: 3%;
+}
+img {
+	width: 75%;
+}
+a {
+	text-decoration: none;
+	color: whitesmoke;
+	background-color: orangered;
+	padding: 10px 40px;
+	border-radius: 5px;
+}
