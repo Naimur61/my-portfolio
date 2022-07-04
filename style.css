@@ -17,6 +17,9 @@ h2 {
 span {
 	color: orange;
 }
+p {
+	color: rgb(66, 65, 65);
+}
 .flexible {
 	display: flex;
 }
@@ -38,4 +41,10 @@ a {
 	background-image: url("images/dream-bg.png");
 	background-repeat: no-repeat;
 	margin-top: 5%;
+}
+footer {
+	text-align: center;
+}
+.Experiences h2 {
+	color: rgb(255, 149, 0);
 }
