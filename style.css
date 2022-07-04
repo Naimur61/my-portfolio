@@ -45,6 +45,28 @@ a {
 footer {
 	text-align: center;
 }
-.Experiences h2 {
+#experience h2 {
 	color: rgb(255, 149, 0);
+}
+.container {
+	background-image: url("images/dream-bg.png");
+	background-repeat: no-repeat;
+	background-position: right;
+}
+#experience {
+	background-image: url("images/exp-bg.png");
+	background-repeat: no-repeat;
+	background-position-y: 50%;
+}
+.blog {
+	border-radius: 4px;
+	margin: 30px;
+	padding: 80px;
+	box-shadow: 10px 10px 30px 5px rgb(38, 37, 37);
+}
+.red {
+	border-left: 15px solid red;
+}
+.blue {
+	border-left: 15px solid blue;
 }
